@@ -26,7 +26,7 @@ def hello_world():  # put application's code here
 
 
     media_id = messenger.upload_media(
-        media="/Users/titus/projects/paul_river_willims_chatbot/assets/ScreenRecording_01-09-2025 18-06-03_1.mov",
+        media="/Users/titus/projects/paul_river_willims_chatbot/assets/paul_intro_video.mp4",
     )
 
 
