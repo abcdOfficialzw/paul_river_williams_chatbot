@@ -28,6 +28,8 @@ def hello_world():  # put application's code here
     media_id = messenger.upload_media(
         media="/Users/titus/projects/paul_river_willims_chatbot/assets/paul_intro_video.mp4",
     )
+    print(f"media id is {media_id}")
+
 
 
 
