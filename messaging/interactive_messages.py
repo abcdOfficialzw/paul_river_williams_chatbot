@@ -17,7 +17,7 @@ def handle_interactive_message(reply_id: str, phone_number: str, name: str):
         case "who_am_i":
             messenger.send_video(
                 link=True,
-                video="https://youtu.be/K4TOrB7at0Y?si=8Z79JZKiV2gXAzAN",
+                video="https://github.com/abcdOfficialzw/paul_river_williams_chatbot/raw/refs/heads/main/assets/ScreenRecording_01-09-2025%2018-06-03_1.mov",
                 caption="Words don't really do justice, so take two minute to know more about 'me', from 'me'",
                 recipient_id=phone_number
             )
